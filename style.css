@@ -45,3 +45,33 @@ div {
     font-family: "Mountains of Christmas", serif;
     margin-top: 5%;
 }
+
+.mellan {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.vänster {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.weuweb {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+
+}
+
+.mitten {
+   width:70%;
+
+}
+
+.höger {
+    width: 15%;
+}
